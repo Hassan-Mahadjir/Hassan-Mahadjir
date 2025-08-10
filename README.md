@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Hassan Mahadjir
 
 🎓 **Software Engineering Student** graduating **January 2025** from Eastern Mediterranean University  
-💻 **Full-Stack Developer | Mobile App Developer | AI & Machine Learning Enthusiast**  
+💻 **Full-Stack Developer | Mobile App Developer | AI & Machine Learning Engineer**  
 🚀 Building scalable, user-focused solutions with modern **Web**, **Mobile**, and **AI** technologies.
 
 ---
@@ -9,7 +9,7 @@
 ## 💡 About Me
 - 🌍 Based in **Cyprus**, open to **remote** / **onsite** and **international** opportunities  
 - 🛠 Passionate about **problem-solving** and turning ideas into real-world products  
-- 🤝 Experienced in **collaboration, leadership**, **end-to-end development** ,**Machine learing** and **AI**
+- 🤝 Experienced in **collaboration, leadership**, **end-to-end development**, **Machine learing** and **AI**
 - 📚 Always learning new tools and improving best practices  
 
 ---
@@ -71,8 +71,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hassan-mahadjir&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=hassan-mahadjir&show_icons=true&theme=tokyonight&exclude_repo=repo1,repo2&hide=cpp" alt="GitHub stats" height="180" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-mahadjir&theme=tokyonight" alt="GitHub streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan-mahadjir&layout=compact&theme=tokyonight" height="180" />
+
 </p>
 
 ---
@@ -86,8 +88,7 @@
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://linkedin.com/in/hassan-mahadjir)  
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff)](mailto:hm.mahadjir@email.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://linkedin.com/in/hassan-mahadjir)  [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff)](mailto:hm.mahadjir@email.com)  
 
 ---
 
