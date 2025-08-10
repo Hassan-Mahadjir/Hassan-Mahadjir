@@ -61,15 +61,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hassan-mahadjir&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-mahadjir&theme=tokyonight" alt="GitHub streak" height="180" />
 </p>
 
 ---
 
 ## 🔥 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassan-mahadjir&theme=tokyo-night" alt="Contribution graph" />
 </p>
 
 ---
