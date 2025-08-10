@@ -59,11 +59,11 @@
 
 ## 📌 Featured Projects
 
-- **[Super Shield Car Tint Website](https://github.com/hassan-mahadjir/supershield)**  
+- **[Super Shield Car Tint Website](https://github.com/Hassan-Mahadjir/super-shield)**  
   SEO-optimized Next.js web app for a car heat insulator company, with **customizable product forms** and **multilingual support**.
   Next.js + Supabase shopping cart with **discount coupon validation**, **custom product options**, and **order confirmation emails**.
 
-- **[PCR Management System](https://github.com/hassan-mahadjir/pcr-management)**  
+- **[PCR Management System](https://github.com/Hassan-Mahadjir/rescue-track-frontend)**  
   Role-based system for patient care reports using **React Query** and **dynamic form endpoints** for medical data.
 
 ---
