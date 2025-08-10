@@ -17,33 +17,43 @@
 ## 🛠 Tech Stack
 
 **Languages:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff) 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)  
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=fff) 
-![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=fff)
+<p>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=fff" />
+</p>
 
 **Frontend:**  
-![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=fff) 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=fff)
+<p>
+  <img src="https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=fff" />
+</p>
 
 **Backend & Databases:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff) 
-![Express](https://img.shields.io/badge/-Express-000?logo=express&logoColor=fff)  
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=fff)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=fff)  
+<p>
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Express-000?logo=express&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=fff" />
+</p>
 
 **AI & Machine Learning:**  
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=fff)  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=fff)  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=fff)  
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?logo=python&logoColor=fff)
+<p>
+  <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Matplotlib-11557c?logo=python&logoColor=fff" />
+</p>
 
 **Tools & Others:**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)  
-![Vercel](https://img.shields.io/badge/-Vercel-000?logo=vercel&logoColor=fff) 
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff)  
+<p>
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Vercel-000?logo=vercel&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff" />
+</p>
 
 ---
 
