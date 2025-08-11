@@ -72,8 +72,8 @@
 
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=hassan-mahadjir&show_icons=true&theme=tokyonight&exclude_repo=repo1,repo2&hide=cpp" alt="GitHub stats" height="180" /> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-mahadjir&theme=tokyonight" alt="GitHub streak" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan-mahadjir&layout=compact&theme=tokyonight" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-mahadjir&theme=tokyonight" alt="GitHub streak" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan-mahadjir&layout=compact&theme=tokyonight" height="180" />
 
 </p>
 
